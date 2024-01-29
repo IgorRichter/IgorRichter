@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my profile 💜
 
 - ⚒ I'm looking to start my journey in web development
-- 👨‍🎓 I’m currently learning **adaptive layout and automation**
+- 💻 Proficient in HTML and CSS, utilizing preprocessors for efficient styling.
+- 🔄 Experienced in Gulp for task automation to streamline development workflow.
+- 👨‍🎓 I’m currently learning **JavaScript** and **CMS WordPress**
 
